@@ -12,7 +12,7 @@
               
             </ul>
         </nav>
-        <a href="includes\logout.php"><button>Logout</button></a>
+   
     </header>
 </body>
 <style>
